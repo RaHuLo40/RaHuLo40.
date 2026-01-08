@@ -38,4 +38,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- 
+- red-team-isolated-lab
+- Automated-Network-Scanner
